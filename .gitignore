@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+dogImages/
+lfw/
+*.zip
+*.tgz
