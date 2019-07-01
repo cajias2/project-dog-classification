@@ -1,3 +1,9 @@
+__MACOSX/
+dogImages/
+lfw/
+*.pt
+test_photos/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
